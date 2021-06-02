@@ -152,7 +152,8 @@ marketing:
   baidu_tongji: ''
 cms:
   branch: master
-  local_backend: false
+  publish_mode: editorial_workflow
+  local_backend: true
 icon:
   pack:
     ai: true
